@@ -24,6 +24,4 @@ Front-End Engineer | HTML | CSS | JavaScript | React | React Native| de.js
 
 ### 📊  Some stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfomaia85&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomaia85&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfomaia85&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomaia85&layout=compact)
