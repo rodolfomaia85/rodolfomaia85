@@ -1,4 +1,4 @@
-## Hi, I'm Rodolfo Maia! 👋
+# Hi, I'm Rodolfo Maia! 👋
 
 👨‍💻   Front-End Engineer in career transition with +4 years of experience visual creation, image processing, created and presented proposals effectively to potential clients, developed technical manuals and applied training, provided customer support by clarifying doubts and resolving technical problems, I worked in multidisciplinary teams in multinational companies.
 
