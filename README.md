@@ -6,7 +6,7 @@
 
 🌱  I have personal aspirations and goals, and I am always on the move, deeply enjoying continuous learning and diligent practice, with the purpose of being in constant progress. This way, every day, I get even closer to realizing my dreams and goals.
 
-Front-End Engineer | HTML | CSS | JavaScript | React | React Native| de.js
+Front-End Engineer | HTML | CSS | JavaScript | React | React Native | Node.js
 
 
 ### 📫 How to reach me:
